@@ -8,7 +8,7 @@
 },
 "id": "cybernode.clickpop",
 "name": "ClickPop",
-"version": "v0.1.0",
+"version": "v0.2.0",
 "developer": "cybernode",
 "description": "A flag or a photo pops up wherever you tap.",
 "resources": {
