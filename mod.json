@@ -1,0 +1,17 @@
+{
+"geode": "5.11.2",
+"gd": {
+"win": "2.2081",
+"android": "2.2081",
+"mac": "2.2081",
+"ios": "2.2081"
+},
+"id": "cybernode.clickpop",
+"name": "ClickPop",
+"version": "v0.1.0",
+"developer": "cybernode",
+"description": "A flag or a photo pops up wherever you tap.",
+"resources": {
+"sprites": ["resources/*.png"]
+}
+}
